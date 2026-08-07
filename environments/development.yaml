@@ -1,0 +1,15 @@
+environment: development
+
+currentRelease: ""
+
+desiredRelease: ""
+
+status: idle
+
+lastSuccessfulDeployment: ""
+
+rollback:
+
+  available: false
+
+  target: ""

@@ -1,0 +1,15 @@
+environment: production
+
+currentRelease: ""
+
+desiredRelease: ""
+
+status: idle
+
+lastSuccessfulDeployment: ""
+
+rollback:
+
+  available: false
+
+  target: ""
