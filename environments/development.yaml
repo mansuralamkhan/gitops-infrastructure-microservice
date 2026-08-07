@@ -1,6 +1,6 @@
 environment: development
 currentRelease: ""
-desiredRelease: "028bfbca8e4dbce47591a45db4bf92eb41867abc"
+desiredRelease: "d35b5c9609b44bf7d3b17d5f53751c4c266f633e"
 status: deploying
 lastSuccessfulDeployment: ""
 rollback:
