@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "1.1",
+  "releaseId": "028bfbca8e4dbce47591a45db4bf92eb41867abc",
+  "source": {
+    "repository": "mansuralamkhan/my-microservice-project",
+    "branch": "dev",
+    "commit": "028bfbca8e4dbce47591a45db4bf92eb41867abc"
+  },
+  "ci": {
+    "workflow": "CI Pipeline",
+    "runId": "31191567048",
+    "runAttempt": "1"
+  },
+  "images": [
+    {
+      "service": "payment-service",
+      "repository": "payment-service",
+      "tag": "028bfbca8e4dbce47591a45db4bf92eb41867abc",
+      "digest": "sha256:0d410d18ffb2abefade8ec04da833453c80d192830f4f9f7e9cb0747ab9d49f5",
+      "uri": "183991395055.dkr.ecr.us-east-1.amazonaws.com/payment-service:028bfbca8e4dbce47591a45db4bf92eb41867abc"
+    }
+  ]
+}

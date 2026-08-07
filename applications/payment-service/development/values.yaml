@@ -1,7 +1,5 @@
 image:
-
-  repository: 123456789012.dkr.ecr.ap-south-1.amazonaws.com/payment-service
-
-  digest: ""
-
+  repository: payment-service
+  digest: "sha256:0d410d18ffb2abefade8ec04da833453c80d192830f4f9f7e9cb0747ab9d49f5"
+  tag: 028bfbca8e4dbce47591a45db4bf92eb41867abc
 release: ""
