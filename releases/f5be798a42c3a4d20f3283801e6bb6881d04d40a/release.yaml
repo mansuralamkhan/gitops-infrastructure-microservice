@@ -14,13 +14,18 @@ ci:
   status: "passed"
 promotion:
   development:
-    status: "gitops-updated"
+    status: "verified"
     updatedAt: "2026-08-08T18:30:04Z"
     gitopsCommit: c528f70f1b8ea91f7f142dea8a930968833aa0a0
     workflowRunId: "31272034180"
     workflowRunAttempt: "1"
     servicesUpdated: 1
     actor: mansuralamkhan
+    verifiedAt: "2026-08-08T18:30:24Z"
+    verificationWorkflowRunId: "31272034180"
+    verificationWorkflowRunAttempt: "1"
+    applicationsVerified: 1
+    smokeTestStatus: passed
   staging:
     status: "pending"
   production:
