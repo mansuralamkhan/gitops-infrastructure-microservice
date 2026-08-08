@@ -1,0 +1,35 @@
+schemaVersion: "1.1"
+
+release:
+  id: "c56f0806adafe3702f72a7cc1fab6040922065df"
+  createdAt: "2026-08-07T19:37:25Z"
+  status: "created"
+
+source:
+  repository: "mansuralamkhan/my-microservice-project"
+  branch: "dev"
+  commit: "c56f0806adafe3702f72a7cc1fab6040922065df"
+
+ci:
+  workflow: "CI Pipeline"
+  runId: "31212104419"
+  runAttempt: "1"
+  status: "passed"
+
+promotion:
+  development:
+    status: "pending"
+
+  staging:
+    status: "pending"
+
+  production:
+    eligible: false
+    status: "pending"
+
+images:
+
+  payment-service:
+    repository: "payment-service"
+    tag: "c56f0806adafe3702f72a7cc1fab6040922065df"
+    digest: "sha256:74c8eb8a520dddd309f8b5ebb304a7c48ee410371fff134fd78163e74a6341fe"

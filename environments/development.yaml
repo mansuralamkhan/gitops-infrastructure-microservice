@@ -1,15 +1,8 @@
 environment: development
-
 currentRelease: ""
-
-desiredRelease: ""
-
-status: idle
-
+desiredRelease: "d35b5c9609b44bf7d3b17d5f53751c4c266f633e"
+status: deploying
 lastSuccessfulDeployment: ""
-
 rollback:
-
   available: false
-
   target: ""
