@@ -1,34 +1,32 @@
 schemaVersion: "1.1"
-
 release:
   id: "30b419fef9cc5108bf845bea3596f24c709544f9"
   createdAt: "2026-08-08T06:09:52Z"
   status: "created"
-
 source:
   repository: "mansuralamkhan/my-microservice-project"
   branch: "dev"
   commit: "30b419fef9cc5108bf845bea3596f24c709544f9"
-
 ci:
   workflow: "CI Pipeline"
   runId: "31243214913"
   runAttempt: "1"
   status: "passed"
-
 promotion:
   development:
-    status: "pending"
-
+    status: "gitops-updated"
+    updatedAt: "2026-08-08T06:11:05Z"
+    gitopsCommit: b2db9ffdb1d26e62d7bb159e1a92983f98d39144
+    workflowRunId: "31243309537"
+    workflowRunAttempt: "1"
+    servicesUpdated: 1
+    actor: mansuralamkhan
   staging:
     status: "pending"
-
   production:
     eligible: false
     status: "pending"
-
 images:
-
   payment-service:
     repository: "payment-service"
     tag: "30b419fef9cc5108bf845bea3596f24c709544f9"
