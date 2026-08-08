@@ -1,7 +1,7 @@
 environment: development
 currentRelease: ""
-desiredRelease: ""
-status: 
+desiredRelease: "fbe283afecd4b9ad11382bfb94c26a318ec3696e"
+status: deploying
 lastSuccessfulDeployment: ""
 rollback:
   available: false
