@@ -40,8 +40,14 @@ promotion:
     applicationsVerified: 1
     smokeTestStatus: passed
   production:
-    eligible: false
-    status: "pending"
+    eligible: true
+    status: "gitops-updated"
+    updatedAt: "2026-08-08T13:32:06Z"
+    gitopsCommit: ce35a0dca889a71133b489a6cb940e6b0912ccfb
+    workflowRunId: "31259728050"
+    workflowRunAttempt: "1"
+    servicesUpdated: 1
+    actor: mansuralamkhan
 images:
   payment-service:
     repository: "payment-service"
