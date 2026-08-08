@@ -1,6 +1,6 @@
 environment: staging
 currentRelease: ""
-desiredRelease: "f1d440e65d4cf33dbb41b0f0e519ff5813f15c85"
+desiredRelease: "d679163c577dcf988d1abbf87062ccb2bebbc8e5"
 status: deploying
 lastSuccessfulDeployment: ""
 rollback:
