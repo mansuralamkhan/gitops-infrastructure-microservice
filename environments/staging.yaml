@@ -1,8 +1,8 @@
 environment: staging
-currentRelease: ""
+currentRelease: "d679163c577dcf988d1abbf87062ccb2bebbc8e5"
 desiredRelease: "d679163c577dcf988d1abbf87062ccb2bebbc8e5"
-status: deploying
-lastSuccessfulDeployment: ""
+status: healthy
+lastSuccessfulDeployment: "d679163c577dcf988d1abbf87062ccb2bebbc8e5"
 rollback:
   available: false
   target: ""
