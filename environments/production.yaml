@@ -1,9 +1,9 @@
 environment: production
-currentRelease: ""
+currentRelease: "971e5338c6839dabe2d6bde49770eab643f06727"
 desiredRelease: "971e5338c6839dabe2d6bde49770eab643f06727"
-status: deploying
-gitopsCommit: ""
-lastSuccessfulDeployment: ""
+status: healthy
+gitopsCommit: "cf3c9e3bb901f93ea65806140be41a26876b66ff"
+lastSuccessfulDeployment: "971e5338c6839dabe2d6bde49770eab643f06727"
 rollback:
   available: false
   target: ""
