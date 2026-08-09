@@ -1,9 +1,9 @@
 environment: staging
-currentRelease: ""
+currentRelease: "971e5338c6839dabe2d6bde49770eab643f06727"
 desiredRelease: "971e5338c6839dabe2d6bde49770eab643f06727"
-status: deploying
-gitopsCommit: ""
-lastSuccessfulDeployment: ""
+status: healthy
+gitopsCommit: "cb6c247de1bfbf4e12c1524d282a6f7a876a09c1"
+lastSuccessfulDeployment: "971e5338c6839dabe2d6bde49770eab643f06727"
 rollback:
   available: false
   target: ""
