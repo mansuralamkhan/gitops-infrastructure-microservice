@@ -1,8 +1,11 @@
 environment: production
-currentRelease: "97b8370dd07bb4f40411d6d3c633cc092d603656"
-desiredRelease: "97b8370dd07bb4f40411d6d3c633cc092d603656"
+currentRelease: ""
+desiredRelease: ""
 status: healthy
-lastSuccessfulDeployment: "97b8370dd07bb4f40411d6d3c633cc092d603656"
+gitopsCommit: ""
+lastSuccessfulDeployment: ""
 rollback:
-  available: false
-  target: ""
+  available: true
+  target:
+    release: ""
+    gitopsCommit: ""
