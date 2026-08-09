@@ -1,11 +1,9 @@
 environment: staging
 currentRelease: ""
-desiredRelease: ""
-status: healthy
+desiredRelease: "971e5338c6839dabe2d6bde49770eab643f06727"
+status: deploying
 gitopsCommit: ""
 lastSuccessfulDeployment: ""
 rollback:
-  available: true
-  target:
-    release: ""
-    gitopsCommit: ""
+  available: false
+  target: ""
