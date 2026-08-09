@@ -1,4 +1,4 @@
 image:
   repository: user-service
-  tag: c8eb3de2c18fd1f70b28d124551cd73d079c3ad1
-  digest: sha256:ec2b55ec37a553b34b636af609a95e1c48e1bfe8b0d7d473a879cb8cf99c1be9
+  tag: 97b8370dd07bb4f40411d6d3c633cc092d603656
+  digest: sha256:5be28b5fccc7ff5d86049fdba44cabb7bd713a4e09d2321b110f49d9899a8ab4
