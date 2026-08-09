@@ -5,4 +5,6 @@ status: healthy
 lastSuccessfulDeployment: "97b8370dd07bb4f40411d6d3c633cc092d603656"
 rollback:
   available: true
-  target: "c8eb3de2c18fd1f70b28d124551cd73d079c3ad1"
+  target:
+    release: "c8eb3de2c18fd1f70b28d124551cd73d079c3ad1"
+    gitopsCommit: ""
