@@ -2,7 +2,7 @@ environment: development
 currentRelease: "fc3e4d94fd55896fa36958e1bec8f0dcc23d7032"
 desiredRelease: "fc3e4d94fd55896fa36958e1bec8f0dcc23d7032"
 status: healthy
-gitopsCommit:""
+gitopsCommit: ""
 lastSuccessfulDeployment: "fc3e4d94fd55896fa36958e1bec8f0dcc23d7032"
 rollback:
   available: true
