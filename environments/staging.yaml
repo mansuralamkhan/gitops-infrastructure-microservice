@@ -1,8 +1,8 @@
 environment: staging
 currentRelease: "9bdc9f58f516bc31d859914f86db594b3b940a93"
-desiredRelease: "9bdc9f58f516bc31d859914f86db594b3b940a93"
-status: healthy
+desiredRelease: "24fa63a267545d97c3869ff5853171e62bdb4e3e"
+status: deploying
 lastSuccessfulDeployment: "9bdc9f58f516bc31d859914f86db594b3b940a93"
 rollback:
   available: true
-  target: "d679163c577dcf988d1abbf87062ccb2bebbc8e5"
+  target: "9bdc9f58f516bc31d859914f86db594b3b940a93"
