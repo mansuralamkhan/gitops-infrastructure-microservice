@@ -1,8 +1,8 @@
 environment: development
-currentRelease: "24fa63a267545d97c3869ff5853171e62bdb4e3e"
+currentRelease: "c8eb3de2c18fd1f70b28d124551cd73d079c3ad1"
 desiredRelease: "c8eb3de2c18fd1f70b28d124551cd73d079c3ad1"
-status: deploying
-lastSuccessfulDeployment: "24fa63a267545d97c3869ff5853171e62bdb4e3e"
+status: healthy
+lastSuccessfulDeployment: "c8eb3de2c18fd1f70b28d124551cd73d079c3ad1"
 rollback:
   available: true
   target: "24fa63a267545d97c3869ff5853171e62bdb4e3e"
