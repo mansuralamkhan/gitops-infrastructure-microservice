@@ -1,4 +1,4 @@
 image:
   repository: payment-service
-  tag: bdb94122b358f661b408395b32c3337e953d00af
-  digest: sha256:ab67b236395a58d4bf5ed17955daa1cfff0d92896b7928d4825fc415caf1bf8b
+  tag: fee4567ec1a1aaf8e62e933faa15dc59ed773388
+  digest: sha256:4438d8b31d9fbd0320a104fbbe16a7eca223693ac56c5d9800169454cc6a880a
