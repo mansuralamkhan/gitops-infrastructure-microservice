@@ -41,7 +41,7 @@ promotion:
     smokeTestStatus: passed
   production:
     eligible: true
-    status: "verified"
+    status: "rolled-back"
     updatedAt: "2026-08-12T07:20:20Z"
     gitopsCommit: b2085c60593ba60756c3716e590e350096b2456b
     workflowRunId: "31573307033"
@@ -53,6 +53,8 @@ promotion:
     verificationWorkflowRunAttempt: "1"
     applicationsVerified: 3
     smokeTestStatus: passed
+    rolledBackAt: "2026-08-12T07:24:44Z"
+    rolledBackTo: 971e5338c6839dabe2d6bde49770eab643f06727
 images:
   account-service:
     repository: "account-service"
