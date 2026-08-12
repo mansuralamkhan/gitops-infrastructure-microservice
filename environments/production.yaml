@@ -1,9 +1,9 @@
 environment: production
-currentRelease: "fee4567ec1a1aaf8e62e933faa15dc59ed773388"
-desiredRelease: "fee4567ec1a1aaf8e62e933faa15dc59ed773388"
-status: healthy
+currentRelease: "971e5338c6839dabe2d6bde49770eab643f06727"
+desiredRelease: "971e5338c6839dabe2d6bde49770eab643f06727"
+status: rolled-back
 gitopsCommit: "b2085c60593ba60756c3716e590e350096b2456b"
-lastSuccessfulDeployment: "fee4567ec1a1aaf8e62e933faa15dc59ed773388"
+lastSuccessfulDeployment: "971e5338c6839dabe2d6bde49770eab643f06727"
 rollback:
-  available: true
-  target: "971e5338c6839dabe2d6bde49770eab643f06727"
+  available: false
+  target: ""
