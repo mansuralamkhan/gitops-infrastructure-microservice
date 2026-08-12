@@ -27,7 +27,13 @@ promotion:
     applicationsVerified: 3
     smokeTestStatus: passed
   staging:
-    status: "pending"
+    status: "gitops-updated"
+    updatedAt: "2026-08-12T07:15:52Z"
+    gitopsCommit: 2db8e0a0957ad48a47f3f9602e09d42a695cf7ab
+    workflowRunId: "31573179269"
+    workflowRunAttempt: "1"
+    servicesUpdated: 3
+    actor: mansuralamkhan
   production:
     eligible: false
     status: "pending"
