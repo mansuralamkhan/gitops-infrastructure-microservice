@@ -1,4 +1,4 @@
 image:
   repository: account-service
-  tag: 62957ee158bfaf757b53d983835961a3eb635a3c
-  digest: sha256:bd4639f2bd575267fb2e323fd5ac793bc7dc35028876237ddd7db491f3c44808
+  tag: 7adbedc9ec91b30856f0548876ba16c16d5fee20
+  digest: sha256:d94f39ff55869341ed355ed05e294264c505d0e0e0ad7ea7c6855cf208d4149a

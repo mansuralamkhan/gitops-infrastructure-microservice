@@ -1,11 +1,11 @@
 environment: development
 currentRelease: "62957ee158bfaf757b53d983835961a3eb635a3c"
-desiredRelease: "62957ee158bfaf757b53d983835961a3eb635a3c"
-status: healthy
+desiredRelease: "7adbedc9ec91b30856f0548876ba16c16d5fee20"
+status: deploying
 gitopsCommit: "7a8cfd5971f4e3422125fb7b3bf2dbc9fb242cae"
 lastSuccessfulDeployment: "62957ee158bfaf757b53d983835961a3eb635a3c"
 rollback:
   available: true
   target:
-    release: "971e5338c6839dabe2d6bde49770eab643f06727"
-    gitopsCommit: "3b07bb37c85ee9fc00664f91906d083fc88a48f1"
+    release: "62957ee158bfaf757b53d983835961a3eb635a3c"
+    gitopsCommit: "7a8cfd5971f4e3422125fb7b3bf2dbc9fb242cae"
