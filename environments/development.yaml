@@ -1,6 +1,6 @@
 environment: development
 currentRelease: "62957ee158bfaf757b53d983835961a3eb635a3c"
-desiredRelease: "7adbedc9ec91b30856f0548876ba16c16d5fee20"
+desiredRelease: "fee4567ec1a1aaf8e62e933faa15dc59ed773388"
 status: deploying
 gitopsCommit: "7a8cfd5971f4e3422125fb7b3bf2dbc9fb242cae"
 lastSuccessfulDeployment: "62957ee158bfaf757b53d983835961a3eb635a3c"
