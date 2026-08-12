@@ -27,7 +27,7 @@ promotion:
     applicationsVerified: 1
     smokeTestStatus: passed
   staging:
-    status: "verified"
+    status: "rolled-back"
     updatedAt: "2026-08-12T05:31:48Z"
     gitopsCommit: 07f034be2df05310b9e00d157395bc33bff49933
     workflowRunId: "31566795704"
@@ -39,6 +39,8 @@ promotion:
     verificationWorkflowRunAttempt: "1"
     applicationsVerified: 1
     smokeTestStatus: passed
+    rolledBackAt: "2026-08-12T05:59:17Z"
+    rolledBackTo: 971e5338c6839dabe2d6bde49770eab643f06727
   production:
     eligible: true
     status: "pending"
